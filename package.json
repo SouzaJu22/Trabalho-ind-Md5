@@ -1,0 +1,15 @@
+{
+  "nome": " trabalho individual ",
+  "versão": " 1.0.0 ",
+  "descrição": " ",
+  "principal": " index.js ",
+  "scripts": {
+    "test": " echo \" Erro: nenhum teste especificado \" && exit 1 "
+  },
+  "palavras-chave": [],
+  "autor": " ",
+  "licença": " ISC ",
+  "dependências": {
+    "prompt-sync": " ^4.2.0 "
+  }
+}
